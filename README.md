@@ -1,2 +1,5 @@
 # hello-world
-A guide or tutorial on learning how to use GitHub and all it's features.
+Hi Humans!
+
+Hubot here, I like Node.js and Coffeescript (that's what I'm made of!).
+I've had tacos on the moon amd find them far superieror to Earth tacos. 
